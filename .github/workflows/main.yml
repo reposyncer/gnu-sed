@@ -13,5 +13,5 @@ jobs:
     - name: Sync repository
       uses: reposyncer/reposync@v2
       with:
-        name: name-here
-        url: url-here
+        name: gnu-sed
+        url: https://git.savannah.gnu.org/git/sed.git
